@@ -1,1 +1,1 @@
-# Pairs-ALGO
+# Pairs-ALGO.This implementation counts the number of pairs with the given difference by storing all numbers in a HashSet and checking for each number if its complement (number + k) exists, efficiently solving the problem in O(n) time complexity with O(n) space complexity.
